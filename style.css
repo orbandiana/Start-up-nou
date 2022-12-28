@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@900&display=swap');
+
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+.IMPORTANT {
+    font-family: 'Orbitron', sans-serif;
+}
+ul a{
+    text-decoration: none;
+    color: black;
+}
+ul a:hover {
+    color: rgb(255, 53, 137);
+}
+.LILA a{
+    text-decoration: none;
+}
